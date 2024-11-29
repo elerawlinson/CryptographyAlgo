@@ -9,6 +9,7 @@
 
 <p>The last file finds a solution x to a list of congruences.</p>
 
+<p>MR Prime Test utilizes the Miller Rabin prime test to determine if a given number is Prime. The Miller Rabin test utilizes two featuers of prime numbers to return "Not Prime" if the number is not prime and "Prime" if the number is most likely prime. The two key features of prime moduli are that any number in the unit group a, to the power of p-1 is congruent to 1 mod p for any prime modulus p. The second feature of prime moduli is that the square root of any number congruent to 1 mod a prime modulus must be +-1.</p>
 
 
 
